@@ -1,0 +1,11 @@
+{
+  "name": "@guillermoriv/publish-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": "git@github.com:guillermoriv/publish-demo.git",
+  "author": "Guillermo Rivas <guillermo.campanudo@hotmail.com>",
+  "license": "MIT"
+}
